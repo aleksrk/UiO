@@ -1,0 +1,29 @@
+start INP //start loop som tar inn n antall input
+BRZ slutt // sjekker om input er 0 og quitter start loopen om det er det
+ADD num
+STA num
+LDA ans
+ADD one
+STA ans
+BRA start // slutt på loopen som tar inputs
+slutt LDA num //start på programmet etter at vi har lest inn inputs
+OUT // printer summen
+LDA ans
+OUT // printer antall inputs
+division LDA ans2 //start på division loop
+ADD one
+STA ans2
+LDA num
+SUB ans
+STA num
+BRZ end
+BRP division // slutt på division loop
+end LDA ans2
+OUT
+
+
+
+num DAT 0 // misc variabler som brukes gis plass i minnet her
+ans DAT 0
+ans2 DAT 0
+one DAT 1

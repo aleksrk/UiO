@@ -1,0 +1,5 @@
+Name  Distance  brightness  luminosity
+Alpha_C 4.3 0.26  1.56
+AlphaCb 4.3 0.077 0.45
+Alphacc 4.2 0.00001 0.00006
+Sirius_A  8.6 1.00  23.6

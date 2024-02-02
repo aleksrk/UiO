@@ -1,0 +1,8 @@
+Å løse oppgaven individuelt gikk egentlig ok. Er ikke helt fornøyd med alle løsningene,
+og dette er kanskje utfordringen med å skrive større og mer komplekse programmer på egenhånd.
+En låser seg fast i løsninger en mener er den enkleste og beste, men oftest finnes det også andre måter å løse oppgavene på.
+Derfor mener jeg det skal være svært gunstig å jobbe med slike oppgaver i grupper,
+da man enkelt kan finne frem flere måter å takle problemene på, og derfra definere hvilken som er best.
+Jeg mener dog det også finnes mange fordeler, det blir bedre struktur og mer lesbar kode av at ikke mange er inne og lager forskjellige deler.
+Det skal være enklere for en fra utsiden å forstå koden ettersom den da for det meste blir lik på mange punkter.
+En bruker mer tid på å tenke igjennom hvert steg, men samtidig kanskje ikke like mye tid som gruppene bruker på diskusjoner seg i mellom og uenigheter.

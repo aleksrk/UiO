@@ -1,0 +1,13 @@
+Mallorca 23/8,  5000, 20, BF
+Agadir 8/9 LongBeach, 7000, 30, INCL, 5
+Alicante 28/8 BeachhView, 4000, 35
+Kreta 8/10  Hotel Rethymneon, 5000, 18
+Corfu  7/9  SeaView, 8000, 22, INCL, 4
+Mallorca 10/9,  4000, 25, BF
+Agadir 15/9 LongBeach, 8000, 30, INCL, 3
+Alicante 25/8 BeachView, 6000, 24
+Alicante 25/8 MountainView, 4000, 12
+Alicante 22/8 BeachView, 12000, 18, INCL, 6
+Alicante 25/8, 2000, 17, BF
+Kreta 15/10  Hotel Rethymneon, 7000, 22
+Corfu  14/9  SeaView, 19000, 23, INCL, 4

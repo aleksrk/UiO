@@ -1,0 +1,13 @@
+Psuedokode for samtlige oppgaver som krever det finnes som kommentar foran implementasjonen i programmene
+
+Oppgave 1 kjører ikke som den skal da jeg ser jeg har en logikk feil i remove funksjonen.
+Jeg klarer ikke få den til å fungere men ser at den hopper ut av funksjonen på linje 46 hver gang.
+Jeg har prøvd å implementere algoritmen fra forelesningene her uten hell, og lurer på om det kan være node klassen min den er misfornøyd med.
+
+Oppgave 2c & dxw)
+Her har jeg brukt standardbiblioteket list i Python, og alle eksemplene har derfor kjøretid O(1),
+slik jeg har forstått det fra denne diskusjonen: https://in2010-discourse.uio.no/t/effektivitetsanalyse-ved-bruk-av-standardbibliotekt/257
+Jeg har kun tatt i bruk append og insert og tenker derfor at det verst tenkelige tiden fortsatt blir O(1).
+Det er ingen risiko for at listen blir full med mindre vi skal ha mer enn 536,870,912 enheter som er maks size på en liste i 32 bit system.
+Dersom det skulle overstige 536,870,912 tror jeg ikke programmet fungerer, men jeg er litt usikker rundt akkurat dette.
+I oppgaven antar vi at n ikke er større enn 10^6 og derfor skal programmet kunne kjøre med O(1) effektivitet.

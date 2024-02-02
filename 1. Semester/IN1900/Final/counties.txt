@@ -1,0 +1,13 @@
+testskip
+testskip
+Viken 1241165
+Oslo 693494
+Innlandet 371385
+Vestfold og Telemark 419396
+Agder 307231
+Rogaland 479892
+Vestland 636531
+Møre og Romsdal 265238
+Trøndelag 468702
+Nordland 241235
+Troms og Finnmark 243311
